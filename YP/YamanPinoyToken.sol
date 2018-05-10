@@ -1,6 +1,6 @@
 pragma solidity ^0.4.23;
 
-import './IERC20.sol';
+import "./IERC20.sol";
 
 contract YamanPinoyToken is IERC20 {
 
